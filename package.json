@@ -1,0 +1,9 @@
+{
+  "name": "site-test-deploy",
+  "version": "1.0.0",
+  "description": "Site de test pour la plateforme CI/CD",
+  "scripts": {
+    "build": "echo 'Build terminé avec succès !'",
+    "start": "echo 'Site prêt à être déployé !'"
+  }
+}
